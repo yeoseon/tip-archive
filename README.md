@@ -4,7 +4,7 @@
 [ISSUES](https://github.com/yeoseon/tip-archive/issues)  
 
 알고싶은 내용들을 Issue로 관리하며, **알고 Close 할 것**   
-Close된 내용들은 아래 README로 저장한다.  
+Close된 내용들은 아래 TIL로 저장한다.  
 Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.  
 
 ---
