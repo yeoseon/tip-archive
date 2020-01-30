@@ -9,6 +9,10 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 
 ---
 
+## ETC
+
+* [객체지향 프로그래밍이란?](https://github.com/yeoseon/tip-archive/issues/39)  
+
 ## Javascript  
 
 * [Javascript 객체 생성 방법](https://github.com/yeoseon/tip-archive/issues/47)  
