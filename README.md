@@ -25,6 +25,7 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 * [parseInt 와 valueOf 의 차이점](https://github.com/yeoseon/tip-archive/issues/26)  
 * [mutable, immutable 객체 -> Shallow copy와 Deep copy](https://github.com/yeoseon/tip-archive/issues/17)  
 * [Java의 액세스 제어](https://github.com/yeoseon/tip-archive/issues/49)  
+* [Garbage Collection](https://github.com/yeoseon/tip-archive/issues/58)  
 
 
 ## SQL  
