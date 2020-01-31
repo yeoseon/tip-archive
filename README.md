@@ -1,7 +1,7 @@
 # tip-archive (Today I learned)
 > Inspired by https://github.com/Integerous/TIL  
 
-[ISSUES](https://github.com/yeoseon/tip-archive/issues)  
+### [ISSUES](https://github.com/yeoseon/tip-archive/issues)  
 
 알고싶은 내용들을 Issue로 관리하며, **알고 Close 할 것**   
 Close된 내용들은 아래 TIL로 저장한다.  
@@ -34,3 +34,7 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 ## Git  
 
 * [Git Pull 충돌오류 :: Git Stash 사용하기](https://github.com/yeoseon/tip-archive/issues/16)  
+
+## 설계
+
+* [확장가능한 데이터 모델링](https://github.com/yeoseon/tip-archive/issues/55)  
