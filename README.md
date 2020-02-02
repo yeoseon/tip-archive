@@ -1,13 +1,17 @@
 # tip-archive (Today I learned)
 > Inspired by https://github.com/Integerous/TIL  
 
-[ISSUES](https://github.com/yeoseon/tip-archive/issues)  
+### [ISSUES](https://github.com/yeoseon/tip-archive/issues)  
 
 알고싶은 내용들을 Issue로 관리하며, **알고 Close 할 것**   
-Close된 내용들은 아래 README로 저장한다.  
+Close된 내용들은 아래 TIL로 저장한다.  
 Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.  
 
 ---
+
+## ETC
+
+* [객체지향 프로그래밍이란?](https://github.com/yeoseon/tip-archive/issues/39)  
 
 ## Javascript  
 
@@ -20,6 +24,8 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 
 * [parseInt 와 valueOf 의 차이점](https://github.com/yeoseon/tip-archive/issues/26)  
 * [mutable, immutable 객체 -> Shallow copy와 Deep copy](https://github.com/yeoseon/tip-archive/issues/17)  
+* [Java의 액세스 제어](https://github.com/yeoseon/tip-archive/issues/49)  
+* [Garbage Collection](https://github.com/yeoseon/tip-archive/issues/58)  
 
 
 ## SQL  
@@ -55,3 +61,7 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 [Proxy](https://github.com/yeoseon/design-patterns/tree/master/Proxy)  
 [Command](https://github.com/yeoseon/design-patterns/tree/master/Command)  
 [Interpreter](https://github.com/yeoseon/design-patterns/tree/master/Interpreter)  
+
+## 설계
+
+* [확장가능한 데이터 모델링](https://github.com/yeoseon/tip-archive/issues/55)  
