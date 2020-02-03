@@ -12,6 +12,11 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 ## ETC
 
 * [객체지향 프로그래밍이란?](https://github.com/yeoseon/tip-archive/issues/39)  
+* [REST, RESTful API란?](https://github.com/yeoseon/tip-archive/issues/78)  
+* [TDD란?](https://github.com/yeoseon/tip-archive/issues/79)  
+* [MVC패턴이란?](https://github.com/yeoseon/tip-archive/issues/80)  
+
+  
 
 ## Javascript  
 
@@ -35,6 +40,12 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 ## Git  
 
 * [Git Pull 충돌오류 :: Git Stash 사용하기](https://github.com/yeoseon/tip-archive/issues/16)  
+* [Git 커밋 전략 (Git flow, Github flow, Gitlab flow)](https://github.com/yeoseon/tip-archive/issues/83)  
+
+## Spring Framework  
+
+* [Spring classpath](https://github.com/yeoseon/tip-archive/issues/81) 
+
 
 ## Design Patterns  
 
