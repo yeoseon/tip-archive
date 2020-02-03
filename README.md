@@ -41,6 +41,8 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 
 * [Git Pull 충돌오류 :: Git Stash 사용하기](https://github.com/yeoseon/tip-archive/issues/16)  
 * [Git 커밋 전략 (Git flow, Github flow, Gitlab flow)](https://github.com/yeoseon/tip-archive/issues/83)  
+* [Git Staging area는 왜 중요한가.](https://github.com/yeoseon/tip-archive/issues/85)  
+
 
 ## Spring Framework  
 
