@@ -15,6 +15,7 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 * [REST, RESTful API란?](https://github.com/yeoseon/tip-archive/issues/78)  
 * [TDD란?](https://github.com/yeoseon/tip-archive/issues/79)  
 * [MVC패턴이란?](https://github.com/yeoseon/tip-archive/issues/80)  
+* [static과 non-static 메소드](https://github.com/yeoseon/tip-archive/issues/87)  
 
   
 
