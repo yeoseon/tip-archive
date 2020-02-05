@@ -79,3 +79,15 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 ## 설계
 
 * [확장가능한 데이터 모델링](https://github.com/yeoseon/tip-archive/issues/55)  
+
+## 알고리즘  
+
+* [빅오 표기법](https://github.com/yeoseon/algorithm/tree/master/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC#%EB%B9%85%EC%98%A4-%ED%91%9C%EA%B8%B0%EB%B2%95)  
+* [해시 알고리즘](https://github.com/yeoseon/algorithm/tree/master/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC#%ED%95%B4%EC%8B%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)  
+* [스택과 큐](https://github.com/yeoseon/tip-archive/issues/97)  
+
+## 네트워크  
+
+* [TCP와 UDP의 특징 및 비교(TCP/IP의 데이터 송수신 과정, 흐름제어와 혼잡제어)](https://github.com/yeoseon/tip-archive/issues/90)  
+* [HTTP와 HTTPS](https://github.com/yeoseon/tip-archive/issues/91)  
+* [웹 통신의 큰 흐름](https://github.com/yeoseon/tip-archive/issues/93)  
