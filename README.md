@@ -91,3 +91,9 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 * [TCP와 UDP의 특징 및 비교(TCP/IP의 데이터 송수신 과정, 흐름제어와 혼잡제어)](https://github.com/yeoseon/tip-archive/issues/90)  
 * [HTTP와 HTTPS](https://github.com/yeoseon/tip-archive/issues/91)  
 * [웹 통신의 큰 흐름](https://github.com/yeoseon/tip-archive/issues/93)  
+
+## Frontend    
+
+* [좋은 CSS 네이밍 규칙은 무엇일까](https://github.com/yeoseon/tip-archive/issues/46)  
+* [프론트엔드 개발자를 위한 How to design/developer your application? - 김석준](https://github.com/yeoseon/tip-archive/issues/109)  
+
