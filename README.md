@@ -32,6 +32,7 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 * [mutable, immutable 객체 -> Shallow copy와 Deep copy](https://github.com/yeoseon/tip-archive/issues/17)  
 * [Java의 액세스 제어](https://github.com/yeoseon/tip-archive/issues/49)  
 * [Garbage Collection](https://github.com/yeoseon/tip-archive/issues/58)  
+* [JVM에 대하여(JVM이 자바 프로그램을 실행하는 과정)](https://github.com/yeoseon/tip-archive/issues/74)  
 
 
 ## SQL  
@@ -97,4 +98,4 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 
 * [좋은 CSS 네이밍 규칙은 무엇일까](https://github.com/yeoseon/tip-archive/issues/46)  
 * [프론트엔드 개발자를 위한 How to design/developer your application? - 김석준](https://github.com/yeoseon/tip-archive/issues/109)  
-
+* [CSS3의 Flex 활용하기](https://github.com/yeoseon/tip-archive/issues/107)  
