@@ -48,8 +48,8 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 
 ## Spring Framework  
 
-* [Spring classpath](https://github.com/yeoseon/tip-archive/issues/81) 
-
+* [Spring classpath](https://github.com/yeoseon/tip-archive/issues/81)  
+* [@Transactional](https://github.com/yeoseon/tip-archive/issues/105)  
 
 ## Design Patterns  
 
