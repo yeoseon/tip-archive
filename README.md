@@ -19,12 +19,12 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 
   
 
-## Javascript  
+## [Javascript](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md)    
 
 * [Javascript 객체 생성 방법](https://github.com/yeoseon/tip-archive/issues/47)  
 * [즉시실행함수(IIFE)](https://github.com/yeoseon/tip-archive/issues/43)  
 * [모던 자바스크립트란?](https://github.com/yeoseon/tip-archive/issues/40)  
-
+* [JavaScript의 데이터 타입과 연산자](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md/#03-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%97%B0%EC%82%B0%EC%9E%90)  
 
 ## Java  
 
