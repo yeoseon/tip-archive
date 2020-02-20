@@ -25,6 +25,7 @@ Bug Fix 같은 경우는 Tag를 잘 달아 보관한다.
 * [즉시실행함수(IIFE)](https://github.com/yeoseon/tip-archive/issues/43)  
 * [모던 자바스크립트란?](https://github.com/yeoseon/tip-archive/issues/40)  
 * [JavaScript의 데이터 타입과 연산자](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md/#03-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%97%B0%EC%82%B0%EC%9E%90)  
+* [함수와 프로토타입 체이닝](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md/#04-%ED%95%A8%EC%88%98%EC%99%80-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B2%B4%EC%9D%B4%EB%8B%9D)  
 
 ## Java  
 
