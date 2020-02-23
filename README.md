@@ -100,3 +100,8 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [좋은 CSS 네이밍 규칙은 무엇일까](https://github.com/yeoseon/tip-archive/issues/46)  
 * [프론트엔드 개발자를 위한 How to design/developer your application? - 김석준](https://github.com/yeoseon/tip-archive/issues/109)  
 * [CSS3의 Flex 활용하기](https://github.com/yeoseon/tip-archive/issues/107)  
+
+## [Vue.js](https://github.com/yeoseon/vuejs-playground)  
+
+* [created와 mounted](https://github.com/yeoseon/tip-archive/issues/119)  
+
