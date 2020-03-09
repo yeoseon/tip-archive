@@ -40,6 +40,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Java의 Reflection](https://github.com/yeoseon/tip-archive/issues/120)  
 * [Java의 캐스팅](https://github.com/yeoseon/tip-archive/issues/123)  
 * [Java instanceof 연산자](https://github.com/yeoseon/tip-archive/issues/125)  
+* [Java 인터페이스와 다중상속](https://github.com/yeoseon/tip-archive/issues/131)  
 
 ## SQL  
 
