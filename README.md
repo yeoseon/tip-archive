@@ -39,6 +39,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [JVM에 대하여(JVM이 자바 프로그램을 실행하는 과정)](https://github.com/yeoseon/tip-archive/issues/74)  
 * [Java의 Reflection](https://github.com/yeoseon/tip-archive/issues/120)  
 * [Java의 캐스팅](https://github.com/yeoseon/tip-archive/issues/123)  
+* [Java instanceof 연산자](https://github.com/yeoseon/tip-archive/issues/125)  
 
 ## SQL  
 
