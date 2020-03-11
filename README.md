@@ -27,8 +27,8 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [JavaScript의 데이터 타입과 연산자](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md/#03-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%97%B0%EC%82%B0%EC%9E%90)  
 * [함수와 프로토타입 체이닝](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md/#04-%ED%95%A8%EC%88%98%EC%99%80-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%B2%B4%EC%9D%B4%EB%8B%9D)  
 * [실행컨텍스트와 클로저](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md#05-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80)  
-* [JavaScript를 통한 객체지향 프로그래밍](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md#06-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
-
+* [JavaScript를 통한 객체지향 프로그래밍](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md#06-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)  
+* [Static 메서드와 클래스](https://github.com/yeoseon/tip-archive/issues/36)  
 
 ## Java  
 
