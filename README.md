@@ -42,8 +42,11 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Java 인터페이스와 다중상속](https://github.com/yeoseon/tip-archive/issues/131)  
 * [Static 메서드와 클래스](https://github.com/yeoseon/tip-archive/issues/36)  
 
+## Spring  
 
-## SQL  
+* [Bean은 멤버변수를 가질 수 없다. (무상태여야 한다.)](https://github.com/yeoseon/tip-archive/issues/137)  
+
+## SQL
 
 * [SELECT 1 FROM 을 사용하는 이유](https://github.com/yeoseon/tip-archive/issues/8)
 
