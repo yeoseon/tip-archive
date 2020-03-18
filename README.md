@@ -16,6 +16,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [TDD란?](https://github.com/yeoseon/tip-archive/issues/79)  
 * [MVC패턴이란?](https://github.com/yeoseon/tip-archive/issues/80)  
 * [static과 non-static 메소드](https://github.com/yeoseon/tip-archive/issues/87)  
+* [IntelliJ 내가 써본 단축키 모음](https://github.com/yeoseon/tip-archive/issues/140)  
 
   
 
@@ -55,6 +56,9 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Git Pull 충돌오류 :: Git Stash 사용하기](https://github.com/yeoseon/tip-archive/issues/16)  
 * [Git 커밋 전략 (Git flow, Github flow, Gitlab flow)](https://github.com/yeoseon/tip-archive/issues/83)  
 * [Git Staging area는 왜 중요한가.](https://github.com/yeoseon/tip-archive/issues/85)  
+* [Git 명령어 모음](https://github.com/yeoseon/tip-archive/issues/139)  
+* [(private) Git PR 과정 이해](https://www.notion.so/yyskr/03-18-Git-38f04633486542409047a0f2284aa4ed)  
+* [Github PR에서 충돌이 발생할 경우](https://github.com/yeoseon/tip-archive/issues/147)  
 
 
 ## Spring Framework  
