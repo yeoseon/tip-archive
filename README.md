@@ -59,6 +59,8 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Git 명령어 모음](https://github.com/yeoseon/tip-archive/issues/139)  
 * [(private) Git PR 과정 이해](https://www.notion.so/yyskr/03-18-Git-38f04633486542409047a0f2284aa4ed)  
 * [Github PR에서 충돌이 발생할 경우](https://github.com/yeoseon/tip-archive/issues/147)  
+* [Angular Commit Message Guideline](https://github.com/yeoseon/tip-archive/issues/148)  
+
 
 
 ## Spring Framework  
