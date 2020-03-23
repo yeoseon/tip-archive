@@ -17,7 +17,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [MVC패턴이란?](https://github.com/yeoseon/tip-archive/issues/80)  
 * [static과 non-static 메소드](https://github.com/yeoseon/tip-archive/issues/87)  
 * [IntelliJ 내가 써본 단축키 모음](https://github.com/yeoseon/tip-archive/issues/140)  
-
+* [[객체지향 개발 5대 원리: SOLID] 1. SRP (단일 책임의 원칙: Single Responsibility Principle)](https://github.com/yeoseon/tip-archive/issues/156)  
   
 
 ## [Javascript](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md)    
