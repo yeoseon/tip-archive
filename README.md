@@ -130,3 +130,6 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [조건부 렌더링](https://github.com/yeoseon/tip-archive/issues/135)  
 
 
+## [Effective Java 도서 내용](https://github.com/yeoseon/effective-java/blob/master/README.md)  
+
+* [int 상수 대신 열거 타입을 사용해라](https://github.com/yeoseon/effective-java#int-%EC%83%81%EC%88%98-%EB%8C%80%EC%8B%A0-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%9D%BC)  
