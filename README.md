@@ -18,6 +18,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [static과 non-static 메소드](https://github.com/yeoseon/tip-archive/issues/87)  
 * [IntelliJ 내가 써본 단축키 모음](https://github.com/yeoseon/tip-archive/issues/140)  
 * [[객체지향 개발 5대 원리: SOLID] 1. SRP (단일 책임의 원칙: Single Responsibility Principle)](https://github.com/yeoseon/tip-archive/issues/156)  
+* [[객체지향, 클린코드] 어떤 기능은 감추고, 어떤 기능을 드러낼 지에 대한 고민](https://github.com/yeoseon/tip-archive/issues/158)  
   
 
 ## [Javascript](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md)    
@@ -47,6 +48,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 ## JUnit  
 
 * [AssertJ](https://github.com/yeoseon/tip-archive/issues/142)  
+* [테스트코드 작성의 의의](https://github.com/yeoseon/tip-archive/issues/157)  
 
 ## Spring  
 
