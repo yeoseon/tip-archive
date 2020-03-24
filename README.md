@@ -45,6 +45,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Java 인터페이스와 다중상속](https://github.com/yeoseon/tip-archive/issues/131)  
 * [Static 메서드와 클래스](https://github.com/yeoseon/tip-archive/issues/36)  
 * [Java Code Convension](https://github.com/yeoseon/tip-archive/issues/152)  
+* [Java Style Guide](https://github.com/yeoseon/tip-archive/issues/160)  
 
 ## JUnit  
 
