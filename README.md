@@ -48,6 +48,8 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Static 메서드와 클래스](https://github.com/yeoseon/tip-archive/issues/36)  
 * [Java Code Convension](https://github.com/yeoseon/tip-archive/issues/152)  
 * [Java Style Guide](https://github.com/yeoseon/tip-archive/issues/160)  
+* [Java final 키워드](https://github.com/yeoseon/tip-archive/issues/166)  
+
 
 ## JUnit  
 
