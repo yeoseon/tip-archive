@@ -21,7 +21,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [[객체지향 개발 5대 원리: SOLID] 2. OCP (개방폐쇄의 원칙: Open Close Principle)](https://github.com/yeoseon/tip-archive/issues/159)  
 * [[객체지향, 클린코드] 어떤 기능은 감추고, 어떤 기능을 드러낼 지에 대한 고민](https://github.com/yeoseon/tip-archive/issues/158)  
 * [Method Ordering Convention](https://github.com/yeoseon/tip-archive/issues/162)  
-
+* [DTO와 VO의 차이](https://github.com/yeoseon/tip-archive/issues/167)  
   
 
 ## [Javascript](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md)    
