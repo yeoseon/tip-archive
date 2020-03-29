@@ -6,6 +6,7 @@
 알고싶은 내용들을 Issue로 관리하며, **알고 Close 할 것**   
 Close된 내용들은 아래 TIL로 저장한다.  
 [Troubleshooting](https://github.com/yeoseon/tip-archive/issues?q=is%3Aissue+label%3Atrouble) 같은 경우는 Tag를 잘 달아 보관한다.  
+[Refactoring](https://github.com/yeoseon/tip-archive/labels/refactoring) 도 Tag를 잘 달아 보관한다.  
 
 ---
 
