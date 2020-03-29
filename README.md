@@ -51,7 +51,8 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Java Style Guide](https://github.com/yeoseon/tip-archive/issues/160)  
 * [Java final 키워드](https://github.com/yeoseon/tip-archive/issues/166)  
 * [일급 컬렉션](https://github.com/yeoseon/tip-archive/issues/163)  
-
+* [싱글톤 사용하기(예제)](https://github.com/yeoseon/tip-archive/issues/173)  
+* [Enum에서 fromString](https://github.com/yeoseon/tip-archive/issues/170)  
 
 ## JUnit  
 
