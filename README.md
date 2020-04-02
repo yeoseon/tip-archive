@@ -53,7 +53,8 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [일급 컬렉션](https://github.com/yeoseon/tip-archive/issues/163)  
 * [싱글톤 사용하기(예제)](https://github.com/yeoseon/tip-archive/issues/173)  
 * [Enum에서 fromString](https://github.com/yeoseon/tip-archive/issues/170)  
-* [Wrapper 클래스 원시값 contains 사용](https://github.com/yeoseon/tip-archive/issues/175)  
+* [Wrapper 클래스 원시값 contains 사용](https://github.com/yeoseon/tip-archive/issues/175) 
+* [Java 8 Optional](https://github.com/yeoseon/tip-archive/issues/177)  
 
 ## JUnit  
 
