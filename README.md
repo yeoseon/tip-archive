@@ -57,6 +57,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Wrapper 클래스 원시값 contains 사용](https://github.com/yeoseon/tip-archive/issues/175) 
 * [Java 8 Optional](https://github.com/yeoseon/tip-archive/issues/177)  
 * [Java 7 Ogjects 클래스](https://github.com/yeoseon/tip-archive/issues/186)  
+* [추상 클래스/메소드의 도출 예시 모음](https://github.com/yeoseon/tip-archive/issues/185)  
 
 ## JUnit  
 
