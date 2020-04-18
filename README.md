@@ -24,6 +24,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Method Ordering Convention](https://github.com/yeoseon/tip-archive/issues/162)  
 * [DTO와 VO의 차이](https://github.com/yeoseon/tip-archive/issues/167)  
 * [[Clean Code] getter 사용을 지양하자](https://github.com/yeoseon/tip-archive/issues/176)  
+* [[Refactoring] 외부에서 자원에 대한 상태를 제어하지 못하도록 해야한다.](https://github.com/yeoseon/tip-archive/issues/189) 
 
 ## [Javascript](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md)    
 
