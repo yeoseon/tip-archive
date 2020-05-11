@@ -26,6 +26,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [[Clean Code] getter 사용을 지양하자](https://github.com/yeoseon/tip-archive/issues/176)  
 * [[Refactoring] 외부에서 자원에 대한 상태를 제어하지 못하도록 해야한다.](https://github.com/yeoseon/tip-archive/issues/189)  
 * [[JUnit, Refactoring, Clean Code] 객체의 테스트를 위해 다른 객체의 정보까지 알아야할 필요가 없도록 구현하자.](https://github.com/yeoseon/tip-archive/issues/190)  
+* [[Refactoring] 내가 배워왔던 리팩토링 항목 정리](https://github.com/yeoseon/tip-archive/issues/196)
 
 ## [Javascript](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md)    
 
