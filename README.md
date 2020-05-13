@@ -27,6 +27,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [[Refactoring] 외부에서 자원에 대한 상태를 제어하지 못하도록 해야한다.](https://github.com/yeoseon/tip-archive/issues/189)  
 * [[JUnit, Refactoring, Clean Code] 객체의 테스트를 위해 다른 객체의 정보까지 알아야할 필요가 없도록 구현하자.](https://github.com/yeoseon/tip-archive/issues/190)  
 * [[Refactoring] 내가 배워왔던 리팩토링 항목 정리](https://github.com/yeoseon/tip-archive/issues/196)
+* [서비스 제공자 프레임워크 (service provider framework)](https://github.com/yeoseon/tip-archive/issues/197)  
 
 ## [Javascript](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md)    
 
@@ -60,6 +61,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Java 8 Optional](https://github.com/yeoseon/tip-archive/issues/177)  
 * [Java 7 Ogjects 클래스](https://github.com/yeoseon/tip-archive/issues/186)  
 * [추상 클래스/메소드의 도출 예시 모음](https://github.com/yeoseon/tip-archive/issues/185)  
+* [정적 팩토리 메서드에 흔히 사용하는 명명 방식](https://github.com/yeoseon/tip-archive/issues/198)  
 
 ## JUnit  
 
@@ -148,6 +150,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 
 ## [Effective Java 도서 내용](https://github.com/yeoseon/effective-java/blob/master/README.md)  
 
-* [아이템 34. int 상수 대신 열거 타입을 사용해라](https://github.com/yeoseon/effective-java#int-%EC%83%81%EC%88%98-%EB%8C%80%EC%8B%A0-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%9D%BC)  
+* [아이템 01. 생성자 대신 정적 팩터리 메서드를 고려하라.(https://github.com/yeoseon/book__effective-java#%EC%95%84%EC%9D%B4%ED%85%9C-01-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%84%B0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)  
 * [아이템 14. Comparable 구현을 고려하라](https://github.com/yeoseon/effective-java#%EC%95%84%EC%9D%B4%ED%85%9C-14-comparable-%EA%B5%AC%ED%98%84%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)  
+* [아이템 34. int 상수 대신 열거 타입을 사용해라](https://github.com/yeoseon/effective-java#int-%EC%83%81%EC%88%98-%EB%8C%80%EC%8B%A0-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%9D%BC)  
 
