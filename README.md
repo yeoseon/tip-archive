@@ -63,6 +63,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [추상 클래스/메소드의 도출 예시 모음](https://github.com/yeoseon/tip-archive/issues/185)  
 * [정적 팩토리 메서드에 흔히 사용하는 명명 방식](https://github.com/yeoseon/tip-archive/issues/198)  
 * [[Clean Code, Refactoring, Java] 생성자는 많을 수록 좋다.](https://github.com/yeoseon/tip-archive/issues/191)  
+* [[Java] 추상 클래스/메소드의 도출](https://github.com/yeoseon/tip-archive/issues/185)  
 
 
 ## JUnit  
