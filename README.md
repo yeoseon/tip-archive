@@ -59,7 +59,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Enum에서 fromString](https://github.com/yeoseon/tip-archive/issues/170)  
 * [Wrapper 클래스 원시값 contains 사용](https://github.com/yeoseon/tip-archive/issues/175) 
 * [Java 8 Optional](https://github.com/yeoseon/tip-archive/issues/177)  
-* [Java 7 Ogjects 클래스](https://github.com/yeoseon/tip-archive/issues/186)  
+* [Java 7 Objects 클래스](https://github.com/yeoseon/tip-archive/issues/186)  
 * [추상 클래스/메소드의 도출 예시 모음](https://github.com/yeoseon/tip-archive/issues/185)  
 * [정적 팩토리 메서드에 흔히 사용하는 명명 방식](https://github.com/yeoseon/tip-archive/issues/198)  
 
