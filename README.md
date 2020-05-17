@@ -154,8 +154,9 @@ Close된 내용들은 아래 TIL로 저장한다.
 ## [Effective Java 도서 내용](https://github.com/yeoseon/effective-java/blob/master/README.md)  
 
 * [아이템 01. 생성자 대신 정적 팩터리 메서드를 고려하라](https://github.com/yeoseon/book__effective-java#%EC%95%84%EC%9D%B4%ED%85%9C-01-%EC%83%9D%EC%84%B1%EC%9E%90-%EB%8C%80%EC%8B%A0-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%84%B0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)  
+* [아이템 04. 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/yeoseon/book__effective-java#%EC%95%84%EC%9D%B4%ED%85%9C-04-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%ED%99%94%EB%A5%BC-%EB%A7%89%EC%9C%BC%EB%A0%A4%EA%B1%B0%EB%93%A0-private-%EC%83%9D%EC%84%B1%EC%9E%90%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)  
 * [아이템 06. 불필요한 객체 생성을 피하라](https://github.com/yeoseon/book__effective-java#%EC%95%84%EC%9D%B4%ED%85%9C-06-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EA%B0%9D%EC%B2%B4-%EC%83%9D%EC%84%B1%EC%9D%84-%ED%94%BC%ED%95%98%EB%9D%BC)  
 * [아이템 14. Comparable 구현을 고려하라](https://github.com/yeoseon/effective-java#%EC%95%84%EC%9D%B4%ED%85%9C-14-comparable-%EA%B5%AC%ED%98%84%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC)  
 * [아이템 17. 변경 가능성을 최소화하라.](https://github.com/yeoseon/book__effective-java/blob/master/README.md#%EC%95%84%EC%9D%B4%ED%85%9C-17-%EB%B3%80%EA%B2%BD-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC)  
 * [아이템 34. int 상수 대신 열거 타입을 사용해라](https://github.com/yeoseon/effective-java#int-%EC%83%81%EC%88%98-%EB%8C%80%EC%8B%A0-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%9D%BC)  
-
+* [아이템 72. 표준 예외를 사용하라](https://github.com/yeoseon/book__effective-java#%EC%95%84%EC%9D%B4%ED%85%9C-72-%ED%91%9C%EC%A4%80-%EC%98%88%EC%99%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)  
