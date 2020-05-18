@@ -64,6 +64,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [정적 팩토리 메서드에 흔히 사용하는 명명 방식](https://github.com/yeoseon/tip-archive/issues/198)  
 * [[Clean Code, Refactoring, Java] 생성자는 많을 수록 좋다.](https://github.com/yeoseon/tip-archive/issues/191)  
 * [[Java] 추상 클래스/메소드의 도출](https://github.com/yeoseon/tip-archive/issues/185)  
+* [this()](https://github.com/yeoseon/tip-archive/issues/179)  
 
 
 ## JUnit  
@@ -160,3 +161,9 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [아이템 17. 변경 가능성을 최소화하라.](https://github.com/yeoseon/book__effective-java/blob/master/README.md#%EC%95%84%EC%9D%B4%ED%85%9C-17-%EB%B3%80%EA%B2%BD-%EA%B0%80%EB%8A%A5%EC%84%B1%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC)  
 * [아이템 34. int 상수 대신 열거 타입을 사용해라](https://github.com/yeoseon/effective-java#int-%EC%83%81%EC%88%98-%EB%8C%80%EC%8B%A0-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%9D%BC)  
 * [아이템 72. 표준 예외를 사용하라](https://github.com/yeoseon/book__effective-java#%EC%95%84%EC%9D%B4%ED%85%9C-72-%ED%91%9C%EC%A4%80-%EC%98%88%EC%99%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)  
+
+## [Object 도서 내용](https://github.com/yeoseon/book__object#book-object)  
+
+[new는 해롭다](https://github.com/yeoseon/book__object#new%EB%8A%94-%ED%95%B4%EB%A1%AD%EB%8B%A4)  
+[가끔은 생성해도 무방하다](https://github.com/yeoseon/book__object#%EA%B0%80%EB%81%94%EC%9D%84-%EC%83%9D%EC%84%B1%ED%95%B4%EB%8F%84-%EB%AC%B4%EB%B0%A9%ED%95%98%EB%8B%A4)  
+[표준 클래스에 대한 의존은 해롭지 않다](https://github.com/yeoseon/book__object#%ED%91%9C%EC%A4%80-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%98%EC%A1%B4%EC%9D%80-%ED%95%B4%EB%A1%AD%EC%A7%80-%EC%95%8A%EB%8B%A4)  
