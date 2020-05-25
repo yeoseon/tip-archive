@@ -67,11 +67,11 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [this()](https://github.com/yeoseon/tip-archive/issues/179)  
 * [[Java, Spring] Java와 Spring의 DI, IOC 컨테이너, Bean Factory 이해](https://github.com/yeoseon/tip-archive/issues/181)  
 
-## Spring Framework  
+## [Spring Framework](https://github.com/yeoseon/spring-study)    
 
 * [Spring classpath](https://github.com/yeoseon/tip-archive/issues/81)  
 * [@Transactional](https://github.com/yeoseon/tip-archive/issues/105)  
-* [Inversion of Control(제어의 역전](https://github.com/yeoseon/spring-study#inversion-of-control-%EC%A0%9C%EC%96%B4%EC%9D%98-%EC%97%AD%EC%A0%84)  
+* [Inversion of Control(제어의 역전)](https://github.com/yeoseon/spring-study#inversion-of-control-%EC%A0%9C%EC%96%B4%EC%9D%98-%EC%97%AD%EC%A0%84)  
 * [Bean은 멤버변수를 가질 수 없다. (무상태여야 한다.)](https://github.com/yeoseon/tip-archive/issues/137)  
 
 ## JUnit  
