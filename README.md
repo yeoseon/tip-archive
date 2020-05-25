@@ -65,6 +65,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [[Clean Code, Refactoring, Java] 생성자는 많을 수록 좋다.](https://github.com/yeoseon/tip-archive/issues/191)  
 * [[Java] 추상 클래스/메소드의 도출](https://github.com/yeoseon/tip-archive/issues/185)  
 * [this()](https://github.com/yeoseon/tip-archive/issues/179)  
+* [[Java, Spring] Java와 Spring의 DI, IOC 컨테이너, Bean Factory 이해](https://github.com/yeoseon/tip-archive/issues/181)  
 
 
 ## JUnit  
@@ -96,6 +97,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 
 * [Spring classpath](https://github.com/yeoseon/tip-archive/issues/81)  
 * [@Transactional](https://github.com/yeoseon/tip-archive/issues/105)  
+* [Inversion of Control(제어의 역전](https://github.com/yeoseon/spring-study#inversion-of-control-%EC%A0%9C%EC%96%B4%EC%9D%98-%EC%97%AD%EC%A0%84)  
 
 ## Design Patterns  
 
