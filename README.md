@@ -69,12 +69,13 @@ Close된 내용들은 아래 TIL로 저장한다.
 
 ## [Spring Framework](https://github.com/yeoseon/spring-study)    
 
-* [Spring classpath](https://github.com/yeoseon/tip-archive/issues/81)  
-* [@Transactional](https://github.com/yeoseon/tip-archive/issues/105)  
 * [Inversion of Control(제어의 역전)](https://github.com/yeoseon/spring-study#inversion-of-control-%EC%A0%9C%EC%96%B4%EC%9D%98-%EC%97%AD%EC%A0%84)  
 * [Bean](https://github.com/yeoseon/spring-study#bean-%EB%B9%88)  
 * [DI](https://github.com/yeoseon/spring-study#%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85dependency-injection)  
 * [AOP](https://github.com/yeoseon/spring-study#aspect-oriented-programmingaop---%EA%B4%80%EC%A0%90-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)  
+* [PSA](https://github.com/yeoseon/spring-study#psa-portable-service-abstraction)  
+* [Spring classpath](https://github.com/yeoseon/tip-archive/issues/81)  
+* [@Transactional](https://github.com/yeoseon/tip-archive/issues/105)  
 * [Bean은 멤버변수를 가질 수 없다. (무상태여야 한다.)](https://github.com/yeoseon/tip-archive/issues/137)  
 
 
