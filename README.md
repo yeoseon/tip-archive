@@ -87,6 +87,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 ## SQL
 
 * [SELECT 1 FROM 을 사용하는 이유](https://github.com/yeoseon/tip-archive/issues/8)
+* [Dual 테이블이란](https://github.com/yeoseon/tip-archive/issues/212)    
 
 ## Git  
 
