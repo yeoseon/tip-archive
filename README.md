@@ -88,6 +88,8 @@ Close된 내용들은 아래 TIL로 저장한다.
 
 * [SELECT 1 FROM 을 사용하는 이유](https://github.com/yeoseon/tip-archive/issues/8)
 * [Dual 테이블이란](https://github.com/yeoseon/tip-archive/issues/212)    
+* [CASE..WHEN...THEN 문](https://github.com/yeoseon/tip-archive/issues/213)  
+* [CASE문과 DECODE문](https://github.com/yeoseon/tip-archive/issues/214)  
 
 ## Git  
 
