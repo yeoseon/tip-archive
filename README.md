@@ -90,6 +90,8 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Dual 테이블이란](https://github.com/yeoseon/tip-archive/issues/212)    
 * [CASE..WHEN...THEN 문](https://github.com/yeoseon/tip-archive/issues/213)  
 * [CASE문과 DECODE문](https://github.com/yeoseon/tip-archive/issues/214)  
+* [Group by ... Having](https://github.com/yeoseon/sql-playground#group-by--having)  
+* [[MySQL] DateTime 포맷과 문자열 날짜 값의 비교](https://github.com/yeoseon/sql-playground#datetime-%ED%8F%AC%EB%A7%B7%EA%B3%BC-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%A0%EC%A7%9C-%EA%B0%92%EC%9D%98-%EB%B9%84%EA%B5%90)  
 
 ## Git  
 
