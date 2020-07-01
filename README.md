@@ -66,6 +66,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [[Java] 추상 클래스/메소드의 도출](https://github.com/yeoseon/tip-archive/issues/185)  
 * [this()](https://github.com/yeoseon/tip-archive/issues/179)  
 * [[Java, Spring] Java와 Spring의 DI, IOC 컨테이너, Bean Factory 이해](https://github.com/yeoseon/tip-archive/issues/181)  
+* [[Java] 배열의 길이 동적으로 늘려서 원소 추가하기(Collection이용, Stream 이용)](https://github.com/yeoseon/tip-archive/issues/219)  
 
 ## [Spring Framework](https://github.com/yeoseon/spring-study)    
 
