@@ -28,6 +28,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [[JUnit, Refactoring, Clean Code] 객체의 테스트를 위해 다른 객체의 정보까지 알아야할 필요가 없도록 구현하자.](https://github.com/yeoseon/tip-archive/issues/190)  
 * [[Refactoring] 내가 배워왔던 리팩토링 항목 정리](https://github.com/yeoseon/tip-archive/issues/196)
 * [서비스 제공자 프레임워크 (service provider framework)](https://github.com/yeoseon/tip-archive/issues/197)  
+* [Entity와 VO](https://github.com/yeoseon/tip-archive/issues/223)  
 
 ## [Javascript](https://github.com/yeoseon/javascript/blob/master/inside-javascript/README.md)    
 
