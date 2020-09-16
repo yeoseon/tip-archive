@@ -106,6 +106,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [(private) Git PR 과정 이해](https://www.notion.so/yyskr/03-18-Git-38f04633486542409047a0f2284aa4ed)  
 * [Github PR에서 충돌이 발생할 경우](https://github.com/yeoseon/tip-archive/issues/147)  
 * [Angular Commit Message Guideline](https://github.com/yeoseon/tip-archive/issues/148)  
+* [Git Repository 합치기 (Commit log 유지) - subtree](https://github.com/yeoseon/tip-archive/issues/242)  
 
 ## Design Patterns  
 
