@@ -145,6 +145,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [해시 알고리즘](https://github.com/yeoseon/algorithm/tree/master/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC#%ED%95%B4%EC%8B%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)  
 * [스택과 큐](https://github.com/yeoseon/tip-archive/issues/97)  
 * [힙](https://github.com/yeoseon/algorithm/tree/master/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC#%ED%9E%99)  
+* [DFS/BFS](https://github.com/yeoseon/tip-archive/issues/247)  
 
 ## 네트워크  
 
