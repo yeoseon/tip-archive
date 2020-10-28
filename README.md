@@ -153,7 +153,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [시간복잡도와 공간복잡도](https://github.com/yeoseon/tip-archive/issues/260)  
 
 ### Examples
-* [부분집합 구하기]](https://gist.github.com/yeoseon/be6cb4f10c5febcacd4d10f32fac756a)    
+* [부분집합 구하기](https://gist.github.com/yeoseon/be6cb4f10c5febcacd4d10f32fac756a)    
 
 
 ## 네트워크  
