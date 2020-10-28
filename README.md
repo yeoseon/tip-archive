@@ -152,6 +152,10 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [재귀](https://github.com/yeoseon/tip-archive/issues/249)  
 * [시간복잡도와 공간복잡도](https://github.com/yeoseon/tip-archive/issues/260)  
 
+### Examples
+* [부분집합 구하기]](https://gist.github.com/yeoseon/be6cb4f10c5febcacd4d10f32fac756a)    
+
+
 ## 네트워크  
 
 * [TCP와 UDP의 특징 및 비교(TCP/IP의 데이터 송수신 과정, 흐름제어와 혼잡제어)](https://github.com/yeoseon/tip-archive/issues/90)  
