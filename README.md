@@ -151,6 +151,8 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [DFS/BFS](https://github.com/yeoseon/tip-archive/issues/247)  
 * [재귀](https://github.com/yeoseon/tip-archive/issues/249)  
 * [시간복잡도와 공간복잡도](https://github.com/yeoseon/tip-archive/issues/260)  
+* [동적계획법](https://github.com/yeoseon/algorithm-playground/tree/master/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC#%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95)  
+* [탐욕법(그리디 알고리즘)](https://github.com/yeoseon/algorithm-playground/tree/master/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC#%ED%83%90%EC%9A%95%EB%B2%95greedy-algorithm)
 
 ### Examples
 * [부분집합 구하기](https://gist.github.com/yeoseon/be6cb4f10c5febcacd4d10f32fac756a)    
