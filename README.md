@@ -85,6 +85,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [@Transactional](https://github.com/yeoseon/tip-archive/issues/105)  
 * [Bean은 멤버변수를 가질 수 없다. (무상태여야 한다.)](https://github.com/yeoseon/tip-archive/issues/137)  
 
+## [JPA](https://github.com/yeoseon/jpa-study)  
 
 ## JUnit  
 
