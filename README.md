@@ -73,6 +73,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [[Java] Comparable, Comparator 의 차이](https://github.com/yeoseon/tip-archive/issues/237)  
 * [[Java] charAt, equals를 사용하는 이유](https://github.com/yeoseon/tip-archive/issues/245) 
 * [Java 8 스트림(Stream)](https://github.com/yeoseon/tip-archive/issues/172)  
+* [Java Concurrency Evolution (동시성 처리의 여러가지 방식)](https://github.com/yeoseon/tip-archive/issues/267)  
 
 ## [Spring Framework](https://github.com/yeoseon/spring-study)    
 
