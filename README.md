@@ -93,7 +93,11 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [AssertJ](https://github.com/yeoseon/tip-archive/issues/142)  
 * [테스트코드 작성의 의의](https://github.com/yeoseon/tip-archive/issues/157)  
 
-## SQL
+## Database
+
+* [HINT 사용하기](https://github.com/yeoseon/tip-archive/issues/273)  
+
+### SQL
 
 * [SELECT 1 FROM 을 사용하는 이유](https://github.com/yeoseon/tip-archive/issues/8)
 * [Dual 테이블이란](https://github.com/yeoseon/tip-archive/issues/212)    
