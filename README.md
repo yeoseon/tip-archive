@@ -186,3 +186,6 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [new는 해롭다](https://github.com/yeoseon/book__object#new%EB%8A%94-%ED%95%B4%EB%A1%AD%EB%8B%A4)  
 * [가끔은 생성해도 무방하다](https://github.com/yeoseon/book__object#%EA%B0%80%EB%81%94%EC%9D%84-%EC%83%9D%EC%84%B1%ED%95%B4%EB%8F%84-%EB%AC%B4%EB%B0%A9%ED%95%98%EB%8B%A4)  
 * [표준 클래스에 대한 의존은 해롭지 않다](https://github.com/yeoseon/book__object#%ED%91%9C%EC%A4%80-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%98%EC%A1%B4%EC%9D%80-%ED%95%B4%EB%A1%AD%EC%A7%80-%EC%95%8A%EB%8B%A4)  
+
+## [금융 도메인]  
+* [private 레포 참고](https://github.com/yeoseon/finance-study)  
