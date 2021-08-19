@@ -189,3 +189,4 @@ Close된 내용들은 아래 TIL로 저장한다.
 
 ## [금융 도메인]  
 * [private 레포 참고](https://github.com/yeoseon/finance-study)  
+* [중복거래 처리 방안](https://github.com/yeoseon/tip-archive/issues/279)  
