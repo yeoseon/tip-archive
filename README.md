@@ -106,6 +106,8 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Group by ... Having](https://github.com/yeoseon/sql-playground#group-by--having)  
 * [[MySQL] DateTime 포맷과 문자열 날짜 값의 비교](https://github.com/yeoseon/sql-playground#datetime-%ED%8F%AC%EB%A7%B7%EA%B3%BC-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%A0%EC%A7%9C-%EA%B0%92%EC%9D%98-%EB%B9%84%EA%B5%90)  
 * [CTE (Common Table Expression, 공통 테이블 식)](https://github.com/yeoseon/tip-archive/issues/221)  
+* [**SQL Tunning 공부 레포 (private)**](https://github.com/yeoseon/sql-tuning)  
+
 
 ## Git  
 
