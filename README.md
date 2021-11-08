@@ -96,6 +96,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 ## Database
 
 * [HINT 사용하기](https://github.com/yeoseon/tip-archive/issues/273)  
+* [시퀀스의 Cache 옵션](https://github.com/yeoseon/tip-archive/issues/283)  
 
 ### SQL
 
