@@ -75,6 +75,9 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Java 8 스트림(Stream)](https://github.com/yeoseon/tip-archive/issues/172)  
 * [Java Concurrency Evolution (동시성 처리의 여러가지 방식)](https://github.com/yeoseon/tip-archive/issues/267)  
 
+## [Kotlin](https://github.com/yeoseon/kotlin_playground/tree/main)
+* [코틀린 기초문법](https://github.com/yeoseon/kotlin_playground/tree/main/%EC%BD%94%ED%8B%80%EB%A6%B0%20%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95)
+
 ## [Spring Framework](https://github.com/yeoseon/spring-study)    
 
 * [Inversion of Control(제어의 역전)](https://github.com/yeoseon/spring-study#inversion-of-control-%EC%A0%9C%EC%96%B4%EC%9D%98-%EC%97%AD%EC%A0%84)  
