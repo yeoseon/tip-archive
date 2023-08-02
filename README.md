@@ -76,7 +76,7 @@ Close된 내용들은 아래 TIL로 저장한다.
 * [Java Concurrency Evolution (동시성 처리의 여러가지 방식)](https://github.com/yeoseon/tip-archive/issues/267)  
 
 ## [Kotlin](https://github.com/yeoseon/kotlin_playground/tree/main)
-* [코틀린 기초문법](https://github.com/yeoseon/kotlin_playground/tree/main/%EC%BD%94%ED%8B%80%EB%A6%B0%20%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95)
+* [코틀린 기초문법](https://www.inflearn.com/notes/47047)
 
 ## [Spring Framework](https://github.com/yeoseon/spring-study)    
 
